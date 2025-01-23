@@ -1,5 +1,5 @@
 <div
-    class="fixed w-full z-30 flex bg-white drop-shadow-1 dark:bg-boxdark dark:drop-shadow-none p-2 items-center justify-center h-16 px-10">
+    class="fixed w-full z-30 flex shadow-lg bg-white drop-shadow-1 dark:bg-boxdark dark:drop-shadow-none p-2 items-center justify-center h-16 px-10">
     <div
         class="flex items-center justify-center flex-none h-full ml-12 duration-500 ease-in-out transform logo text-gray-900 dark:text-white">
         <a href="{{ route('dashboard') }}" class="flex ms-2 md:me-24">
